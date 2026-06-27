@@ -1,0 +1,6 @@
+{
+  "name": "Artify Studio",
+  "description": "An offline-first Graphic Design and Creative Art Studio inspired by Microsoft Designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
